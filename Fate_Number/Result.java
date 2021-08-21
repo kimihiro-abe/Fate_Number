@@ -98,6 +98,7 @@ public class Result extends Print_String {
 				prtn();
 				prtl("・相性の良い運命数 → 7・33\r\n" +
 						"・相性の悪い運命数 → 6・11");
+				break;
 			case 8:
 				prtn();
 				prtl("★彡　華やかなオーラがある、女優タイプ　☆彡");
