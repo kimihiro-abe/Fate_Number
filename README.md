@@ -1,6 +1,5 @@
 # Fate_Number
 ## 自作「Fate_Number - 日本語名：運命数占い」  
-<br>
 
 ### - 序文 -
 
