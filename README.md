@@ -26,8 +26,7 @@
 <br>どのようなものが出力されるのか、  
 参考として以下の画像をご参照ください。  
 <br>
-<img src="https://github.com/kimihiro-abe/Fate_Number/blob/main/Fate_Number_01.png?raw=true" width="35%">
-<br>
+<img src="https://github.com/kimihiro-abe/Fate_Number/blob/main/Fate_Number_01.png?raw=true" width="50%">
 <br>
 
 ### - ファイルについて -
